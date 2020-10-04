@@ -142,6 +142,12 @@
   tags: posix libc
   license: BSD 2-clause
 
+- name: scalapackfx
+  github: dftbplus/scalapackfx
+  description: Modern Fortran wrappers around ScaLAPACK routines
+  categories: interfaces
+  license: BSD-2-Clause
+
 - name: sqliteff
   url: https://gitlab.com/everythingfunctional/sqliteff
   description: A thin wrapper around the SQLite library
