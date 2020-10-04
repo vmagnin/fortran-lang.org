@@ -129,6 +129,12 @@
   tags: posix putenv getenv setenv environment file system mkdir rename rmdir chmod rand uname
   version: none
 
+- name: mpifx
+  github: dftbplus/mpifx
+  description: Modern Fortran wrappers around MPI routines
+  categories: interfaces
+  license: BSD-2-Clause
+
 - name: Focal
   github: LKedward/focal
   description: A module library which wraps calls to the OpenCL runtime API with a higher abstraction level 
