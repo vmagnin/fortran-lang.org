@@ -19,7 +19,7 @@ La bibliothèque [OpenCoarrays](http://www.opencoarrays.org/) permet à gfortran
 
 ### LLVM Flang
 
-[Flang](https://github.com/llvm/llvm-project/tree/master/flang)
+[Flang](https://github.com/llvm/llvm-project/tree/main/flang)
 est un nouveau frontal Fortran 2018 qui a été récemment
 ajouté à LLVM. Il est implémenté en C++ moderne et utilise un dialecte MLIR orienté Fortran pour passer à la représentation intermédiaire LLVM IR.
 Ce projet est en phase de développement actif.
